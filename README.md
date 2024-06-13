@@ -16,6 +16,7 @@ Neural Networks (CNN).
     - CNN
 6. [Evaluation](#Evaluation)
 7. [Results](#Results)
+8. [License](#License)
 
 ## Introduction
 
