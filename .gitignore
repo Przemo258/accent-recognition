@@ -1,0 +1,12 @@
+.idea
+.data/metadata/*
+.data/clips/*
+.models/ast/*
+.models/cnn/*
+.python-version
+.pyc
+.0
+.csv
+.png
+.jpg
+.txt
